@@ -14,7 +14,7 @@
 ### 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github.com/devlucius/devlucius/blob/main/avatar_github.png?raw=true" height="160" width="160">
+  <img src="https://github.com/Dev-Lucius/Dev-Lucius/blob/main/avatar_github.png?raw=true" height="160" width="160">
   <img src="https://github-readme-stats.vercel.app/api?username=aalucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aalucas&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
