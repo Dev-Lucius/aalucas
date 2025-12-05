@@ -2,21 +2,14 @@
 
 ---
 
+
 ### 👨‍💻 About Me
+<img src="https://github.com/Dev-Lucius/Dev-Lucius/blob/main/avatar_github.png?raw=true" height="160" width="160" />
 
 💻 Apaixonado por tecnologia, inovação e clean code  
 📚 Estudante de **Ciência da Computação**, sempre evoluindo minhas habilidades  
 ⚙ Foco: **Java · Python · Desenvolvimento Web · Bancos de Dados**  
 🔥 Projetos para aprimorar lógica de programação e experiência prática
-
----
-
-### 📊 GitHub Analytics
-
-<div align="left">
-  <img src="https://github.com/Dev-Lucius/Dev-Lucius/blob/main/avatar_github.png?raw=true" height="160" width="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Lucius&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
-</div>
 
 ---
 
